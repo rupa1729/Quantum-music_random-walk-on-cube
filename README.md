@@ -1,1 +1,21 @@
 # Quantum-music_random-walk-on-cube
+**Abstract**
+In our Quantum music project, we have used random walk on a cube to make a quantum circuit using jupyter notebook and python language and then the outputs were converted to notes and rhythms by simply running the quantum circuit. The corresponding notes and rhythms were used to create midi tracks by converting the outcome to the musical notations, and now once we have our music notation, we can play our quantum computer music anywhere anytime. We have used "Quantum Computer Music: Foundations and Initial Experiments" as our base paper to build our project. Together we worked on almost every aspect of quantum computer music, we looked into how musicians started working with classical computers to produce music, and as the quantum computing field is still evolving, how researchers/musicians are working together to make quantum music, we produced music by simply using random walk on a cube, but we can also make music using complex circuits that will increase the randomness of our musical notes. Due to constrain in time, we were able to make quantum computer music using a circuit and random walk on a cube, our future goal for the project is to build a complex circuit that works in complex structures not only on the cube
+
+**Introduction**
+Our motivation for making quantum music is the word music itself, if we can have quantum
+finance, quantum computing, quantum mechanics, then why not, quantum music? We also
+get closer to quantum circuits while working on our project. Our goal was to produce quantum computer music by using random walks on a cube or quantum circuit to get the rhythms and notes to produce music. The outputs of the resultant quantum circuit were converted into pitches and rhythms by simply running the code in the jupyter notebook. For each list quantum circuit was iterated several times always beginning in the state where it was measured in the previous step. The output quantum states were encoded into a particular pitch and particular rhythmic beats where the numbers that are assigned correspond to a MIDI frequency which was then used in creating a MIDI file.
+#List of deliverables
+Repository link : (https://github.com/wait-a-sec/Quantum-Music-using-Random-Walks)
+Presentation Video: (https://youtu.be/bOz2IEGwupY)
+PDF of our presenttion:Quantum_Computer_Music_-2.pdf
+Quantum Music produced by us: (https://youtu.be/SJzoIo9nogo)
+
+**Future works**
+Technology has changed music forever and will continue to do so as long as it remains the part of a human life. The same way as pop music sounds have been altered by the noises that computers generate, giving rise to the “electronic” genre . Tech’s effect on music will reverberate through the industry, revolutionising the balance between artists and powerful music labels . This opens the door for more experimental music to reach the world. With the help of computers, social media and even AI almost anything is possible in tomorrow’s music scene. The impact of quantum computer will be revolutionary and it will change the way we produced music before.
+A.I. is the ability of a computer to not only retain and regurgitate certain information, but to evolve, learn and create new ways of interpreting and reciting information. The best comparison for this technology is the brain – a mechanism that can not only learn about its environment, but can learn about itself, and in turn begins to learn an A.I. in new ways, it includes algorithms and also implements general reasoning and self-correction or adaption mechanisms. Although A.I. is still in its initial stages, once it becomes fully developed, there is no telling how capable a technology it will become. AI/ML will bring quantum music to the new height, and improve our way of understanding the music.
+**Next Steps Of Our Project**
+For the next part of the project we would like to implement complex random walk. The final aim would be to generate whole arrangement of an Orchestra by using different instruments. This would be possible by a website or a python library where music enthusiasts can play around with different arrangements. Using continuous variable quantum programming we would like to represent the string based instruments more accurately.
+
+
